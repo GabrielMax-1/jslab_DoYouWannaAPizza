@@ -11,7 +11,7 @@ Now seriously, I did this as a project to refresh things from the past (and yes,
 ⛔ The project is under development. I want to make it 5 stages, and I will upload each one every week to my github, and repl. (It should be noted that in "I-teractive learning X", it will only be available after the 5 stages have been completed) ⛔
 
 # Details #
-- Language: English, Spanish, German, Russian (For now, only English will be available.)
+- Language: English, Spanish, German, Russian, Portugese (For now, only English will be available.)
 - Development Language: HTML, CSS, JS
 - Base Language (without HTML): NodeJS
 - Release date: October 22, 2022
